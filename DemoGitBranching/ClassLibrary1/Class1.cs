@@ -5,6 +5,7 @@
         public void method1()
         {
             Console.WriteLine("Hello RightAngleSolutions");
+            Console.WriteLine("some hotfix goes here");
         }
     }
 }
